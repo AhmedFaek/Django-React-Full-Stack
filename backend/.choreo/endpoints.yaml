@@ -1,0 +1,12 @@
+version: 0.1
+
+<<<<<<< HEAD:backend/.choreo/endpoint.yaml
+endpoints:
+=======
+endpoints: 
+>>>>>>> a2375d81f9b5466a83c8e86dd3ad28be7a123b03:backend/.choreo/endpoints.yaml
+  - name: "REST API"
+    port: 8000
+    type: REST
+    networkVisibility: Public
+    context: /
